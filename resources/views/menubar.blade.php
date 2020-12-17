@@ -3,7 +3,7 @@
   <div id="navbar" role="navigation" class="navbar navbar-expand-lg">
     <div class="container">
       <a @if($muave == 1) href="index" @endif class="navbar-brand home">
-        <img  src="sources/img/db-logo_new.png" alt="Universal logo"style="margin-bottom: 1px" class="d-none d-md-inline-block">
+        <img  src="sources/img/eti4.png" alt="Universal logo"style="margin-bottom: 1px" class="d-none d-md-inline-block">
         <img src="sources/img/eti4.png" alt="Universal logo" class="d-inline-block d-md-none">
         <span class="sr-only">Welcome to ETI cinema</span>
       </a>
