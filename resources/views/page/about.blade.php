@@ -29,7 +29,7 @@
                     <!-- <div class="heading">
                         <h2>Who is responsible for Universal?</h2>
                     </div> -->
-                    <p class="lead">Là hệ thống rạp chiếu phim hàng đầu Việt Nam, HHQCinema đang ngày càng phát triển hơn nữa với các chương trình đặc sắc, các khuyến mãi hấp dẫn, đem đến cho khán giả những bộ phim bom tấn của thế giới và Việt Nam nhanh chóng và sớm nhất.</p>
+                    <p class="lead">Là hệ thống rạp chiếu phim hàng đầu Việt Nam, ETI Cinema đang ngày càng phát triển hơn nữa với các chương trình đặc sắc, các khuyến mãi hấp dẫn, đem đến cho khán giả những bộ phim bom tấn của thế giới và Việt Nam nhanh chóng và sớm nhất.</p>
                     <div class="row text-center" style="justify-content: center;">
 
                         <!-- /.team-member1-->

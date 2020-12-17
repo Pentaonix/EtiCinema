@@ -41,7 +41,7 @@
     <div class="row">
       <div class="container">              
         <img src="sources/img/apple-touch-icon.png">
-        &copy; 2020 HHQCinema. All Rights Reserved.
+        &copy; 2020 ETICinema. All Rights Reserved.
       </div>
 
     </div>

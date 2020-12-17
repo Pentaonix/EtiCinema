@@ -44,7 +44,7 @@
                             </div>
                             <div id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion" class="collapse">
                                 <div class="card-body">
-                                    <p>Khi bạn mua vé online trên website, bạn vẫn sẽ được tích điểm vào tài khoản thành viên. Hệ thống <strong>hhqcinema</strong> sẽ không tích điểm đối với khách hàng thực hiện thanh toán không thông qua đăng nhập.</p>
+                                    <p>Khi bạn mua vé online trên website, bạn vẫn sẽ được tích điểm vào tài khoản thành viên. Hệ thống <strong>eticinema</strong> sẽ không tích điểm đối với khách hàng thực hiện thanh toán không thông qua đăng nhập.</p>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@
                                             <li>Khi đến bước thanh toán, chọn loại thẻ tín dụng muốn sử dụng để thanh toán</li>
                                         </ul>
 
-                                    <p>Chọn “Thanh toán”, bạn sẽ được chuyển qua trang thanh toán trực tuyến. Hệ thống thanh toán trực tuyến của hhqcinema thông qua 2 cổng thanh toán trung gian 123pay và Onepay, hỗ trợ thanh toán cho thẻ thanh toán VISA/ MasterCard/JCB (Nội địa) và hầu hết các thẻ ATM của các ngân hàng trong nước như: Vietcombank, Đông Á Bank, Vietinbank, ACB, VIB, HD Bank, Maritime Bank, Techcombank, Eximbank, Tiền Phong bank, SHB, Việt Á Bank ….</p>
+                                    <p>Chọn “Thanh toán”, bạn sẽ được chuyển qua trang thanh toán trực tuyến. Hệ thống thanh toán trực tuyến của eticinema thông qua 2 cổng thanh toán trung gian 123pay và Onepay, hỗ trợ thanh toán cho thẻ thanh toán VISA/ MasterCard/JCB (Nội địa) và hầu hết các thẻ ATM của các ngân hàng trong nước như: Vietcombank, Đông Á Bank, Vietinbank, ACB, VIB, HD Bank, Maritime Bank, Techcombank, Eximbank, Tiền Phong bank, SHB, Việt Á Bank ….</p>
 
                                 </div>
                             </div>

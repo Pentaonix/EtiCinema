@@ -5,7 +5,7 @@
       <a @if($muave == 1) href="index" @endif class="navbar-brand home">
         <img  src="sources/img/db-logo_new.png" alt="Universal logo"style="margin-bottom: 1px" class="d-none d-md-inline-block">
         <img src="sources/img/db-logo-small.png" alt="Universal logo" class="d-inline-block d-md-none">
-        <span class="sr-only">Welcome to HHQ cinema</span>
+        <span class="sr-only">Welcome to ETI cinema</span>
       </a>
       <!-- <button type="button" data-toggle="collapse" data-target="#navigation" class="navbar-toggler btn-template-outlined">
         <span class="sr-only">Toggle navigation</span>
