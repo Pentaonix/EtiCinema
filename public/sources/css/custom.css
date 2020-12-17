@@ -1,0 +1,87 @@
+#goTop {
+    bottom: 60px;
+    cursor: pointer;
+    display: none;
+    height: 35px;
+    position: fixed;
+    right: 60px;
+    width: 44px;
+    z-index: 1000;
+}
+
+.col-md-duy{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+
+.rowduy {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    /*margin-right: -15px;
+    margin-left: -15px;*/
+    justify-content: space-around;
+}
+
+.ribbon.hot {
+    background: #f71a13;
+}
+
+.ribbon.newduy {
+    background: #38c910;
+}
+
+p.lead-duy {
+    margin-bottom: 10px;
+}
+
+.myposter img {
+    display: block;
+    max-width:300px;
+    max-height:370px;
+    width: auto;
+    height: auto;
+}
+
+.mytheatre img {
+    display: block;
+    max-width:250px;
+    max-height:270px;
+    width: auto;
+    height: auto;
+}
+
+.myprice img {
+    display: block;
+    max-width:500px;
+    max-height:750px;
+    width: auto;
+    height: auto;
+}
+
+.mycolumn {
+    box-sizing: border-box;
+    border-spacing: 150px;
+    float: left;
+    width: 1px;
+    padding: 10px;
+    margin: 1px;
+    /* Should be removed. Only for demonstration */
+}
+
+
+.duyduy1, .duyduy2, .duyduy3{
+
+}
+
+
+
+
+
