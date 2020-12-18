@@ -50,7 +50,7 @@
                         <h3 class="h4">tổng đài</h3>
                         <p>Tổng đài online 24/24<br>
                         
-                            <strong>0399685122</strong>
+                            <strong>0843187888</strong>
                         </p>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                         <h3 class="h4">Hộp thư</h3>
                         <p>
                             Hệ thống tiếp nhận phản hồi khách hàng<br>
-                            <a href="mailto:"><strong>hiepbkcntt@gmail.com</strong></a>
+                            <a href="mailto:"><strong>ducquang0301@gmail.com</strong></a>
                         </p>
                         
                     </div>

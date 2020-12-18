@@ -33,7 +33,7 @@
                     <div class="row text-center" style="justify-content: center;">
 
                         <!-- /.team-member1-->
-                        <div class="col-md-2">
+                       <!--  <div class="col-md-2">
                             <div data-animate="fadeInUp" class="team-member">
                                 <div class="image">
                                     <a >
@@ -62,7 +62,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- /.team-member2-->
+                         /.team-member2
                         <div data-animate="fadeInUp" class="col-md-2">
                             <div class="team-member">
                                 <div class="image">
@@ -91,7 +91,7 @@
                                     <p>Fullstack Developer</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- /.team-member3-->
                         <div data-animate="fadeInUp" class="col-md-2">
                             <div class="team-member">
@@ -103,7 +103,7 @@
                                 <h3>
                                     <a >Nguyễn Đức Quang</a>
                                 </h3>
-                                <p class="role">Team member</p>
+                                <p class="role">Project manager</p>
                                 <ul class="social list-inline">
                                     <li class="list-inline-item">
                                         <a href="https://www.facebook.com/profile.php?id=100002829962422" target="_blank" class="external facebook">
