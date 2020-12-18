@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Dec 16, 2020 at 02:25 AM
+-- Generation Time: Dec 18, 2020 at 05:45 AM
 -- Server version: 8.0.21
 -- PHP Version: 7.1.19
 
@@ -222,33 +222,33 @@ CREATE TABLE `dien_vien` (
 --
 
 INSERT INTO `dien_vien` (`maphim`, `dienvien`) VALUES
-(1, 'Josh Brolin'),
-(1, 'Julian Dennison'),
-(1, 'Morena Baccarin'),
-(1, 'Ryan Reynolds'),
-(1, 'T. J. Miller'),
-(1, 'Zazie Beetz'),
-(2, 'Dave Bautista'),
-(2, 'Karen Gillan'),
-(2, 'Tom Holland'),
-(3, 'Bryce Dallas Howard'),
-(3, 'Chris Pratt'),
-(3, 'Judy Greer'),
-(3, 'Vincent D\'Onofrio'),
-(4, 'hotgirl Nene'),
-(4, 'Huy Khánh'),
-(4, 'Kiều Minh Tuấn'),
-(4, 'Song Luân'),
-(5, 'Gin Tuấn Kiệt'),
-(5, 'Jun Phạm'),
+(1, 'Chaien'),
+(1, 'Deki'),
+(1, 'Doraemon'),
+(1, 'Nobita'),
+(1, 'Shizuka'),
+(1, 'Suneo'),
+(2, 'Akari Kito'),
+(2, 'Hiro Shimono'),
+(2, 'Natsuki Hanae'),
+(3, 'Hứa Vĩ Văn'),
+(3, 'Kiều Minh Tuấn'),
+(3, 'Thái Hoà'),
+(3, 'Thu Trang'),
+(4, 'Jessica Brown Findlay'),
+(4, 'John Heffernan'),
+(4, 'John Lynch'),
+(4, 'Sean Harris'),
+(5, 'Gong Myoung'),
 (5, 'Khả Ngân'),
-(5, 'NSƯT Mỹ Uyên'),
-(6, 'Alexandra Lamy'),
-(6, 'Elsa Zylberstein'),
-(6, 'Franck Dubosc'),
-(7, 'Greg Proops'),
+(5, 'Lee Hanee'),
+(5, 'Ryu Seung-yong'),
+(6, 'Alexander Siddig'),
+(6, 'Lindsey Morgan'),
+(6, 'Rhona Mitra'),
 (7, 'Jim Gaffigan'),
 (7, 'Lance Lim'),
+(7, 'Violet Evergarden'),
 (7, 'Zendaya'),
 (8, 'Bruce Willis'),
 (8, 'Elisabeth Shue'),
@@ -2980,7 +2980,7 @@ INSERT INTO `nhan_vien` (`idnv`, `anhdaidien`, `ngaybatdau`, `chucvu`, `marap`, 
 (11, 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.0-9/20664575_847255178773864_2973611719685943201_n.jpg?_nc_cat=0&_nc_eui2=AeFKAT3r-6xyO9HNIwItkjPhlgHbef5AvhgWNmmov-NVJNMdgwZdMdli6qXl5KCloNrlbiKHE4Hl8FTexrv1cH8W3gIe3p3esq4HdsH6vOlQ9w&oh=ad635f4c482d25ddcb939fc8374bdab1&oe=5B7DA261', '2016-08-15', 'Bán vé, quản lý', 6, NULL),
 (12, 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.0-1/32294622_2020570854870618_8840139440836837376_n.jpg?_nc_cat=0&_nc_eui2=AeGlwbv4fJNGTq3TLeil9Mhm3YaPIuP2xai_A9iZlKk5gJpW0OsW9XhqOHVTucpJEpfu75zN28GYkMOnrWBkhZBa_jgpsYc1n6Ny-TizRv5B4A&oh=fede4855cc363ed8901d0e1b6847753d&oe=5B98AC51', '2018-05-15', 'Bán vé', 4, 11),
 (13, 'https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.0-9/32511958_2070093176648254_1424641236198752256_n.jpg?_nc_cat=0&_nc_eui2=AeHdbD4zrIqTn9HfBLwhPRmouejTjrIkL-LKnPTzFSK6c0467Nbl5X_3BmBFF83Mi_MGijPcj2sJ6j7YF8vTv6ZsLNyPUAPN9FASBvqziEfNqg&oh=b4e8417280aa4f123412ec9a01570651&oe=5B95826F', '2016-08-15', 'Bán vé', 5, 11),
-(20, 'https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-0/c0.150.640.640a/s552x414/118918203_826538801421657_7497952422851580111_n.jpg?_nc_cat=106&ccb=2&_nc_sid=da31f3&_nc_ohc=3gmftgwNgwEAX_IF-gT&_nc_ht=scontent.fhan2-1.fna&tp=28&oh=85149ecc2957ac8790e4d7518536821a&oe=5FFF6657', '2020-12-16', 'Quản lý', 6, 11);
+(20, 'sources/img/ha.jpg', '2020-12-16', 'Quản lý', 6, 11);
 
 -- --------------------------------------------------------
 
@@ -3218,29 +3218,29 @@ CREATE TABLE `the_loai` (
 --
 
 INSERT INTO `the_loai` (`maphim`, `theloai`) VALUES
-(1, 'Hành động'),
-(2, 'Hành động'),
+(1, 'Hoạt hình'),
+(2, 'Hoạt hình'),
 (2, 'Phiêu lưu'),
-(3, 'Hành động'),
-(3, 'Phiêu lưu'),
-(4, 'Hài'),
-(5, 'Tình cảm'),
-(6, 'Hài'),
-(6, 'Tình cảm'),
-(7, 'Gia đình'),
+(3, 'Hài hước'),
+(3, 'Tâm lý'),
+(4, 'Kinh dị'),
+(5, 'Hành động'),
+(6, 'Hành động'),
+(6, 'Tâm lý'),
 (7, 'Hoạt hình'),
+(7, 'Tâm lý'),
 (8, 'Hành động'),
-(8, 'Tội phạm'),
-(9, 'Hài'),
+(8, 'Kinh dị'),
 (9, 'Tâm lý'),
-(10, 'Hành động'),
+(9, 'Trinh thám'),
+(10, 'Hoạt hình'),
 (10, 'Phiêu lưu'),
 (11, 'Hoạt hình'),
 (11, 'Phiêu lưu'),
 (12, 'Hành Động'),
 (12, 'Phiêu lưu'),
-(13, 'Hoạt hình'),
-(14, 'Hoạt hình'),
+(13, 'Võ thuật'),
+(14, 'Lịch sử'),
 (14, 'Phiêu lưu'),
 (15, 'Hành động'),
 (15, 'Tội phạm'),
@@ -3298,7 +3298,7 @@ INSERT INTO `users` (`id`, `email`, `password`, `ngaysinh`, `gioitinh`, `sodt`, 
 (17, 'anhnd1@gmail.com', '$2y$10$zzvnFJBFav3RBoigUx9hs.4jE20VSdxyti6pmtx6iLx0GNdUiSqBS', '1999-02-04', 1, '0399685168', 'nguyen duc anh', '456298472', '2020-12-11', '2020-12-11', 'bdHz0c6WBEiJmBSeLLQFBdZ2MOmVPcob9UpcHnwIvcVfyI1Hvg7VzIyfoo9q'),
 (18, 'hiep.nm176750@sis.hust.edu.vn', '$2y$10$xM13z.inCFInp15Y7eym.Odnyh3XA3zUjn4VMbCCHVS84W7bcuceK', '1999-01-11', 1, '0399685128', 'Nguyen Manh Hiep', '099999999', '2020-12-11', '2020-12-11', NULL),
 (19, 'quangnd@gmail.com', '$2y$10$LSqd9dc9bw1GlkeD5FZvS.ZPNw4dSVzpLMeSoUgGsq3mUbXPAzjwe', '1999-01-03', 1, '0974726869', 'Quang Nguyen', '013626151', '2020-12-12', '2020-12-12', 'GdGqLjUnhqNqjym6c1SI9P7nW29YVvAS4yPjGe8mfg0GqXwEKhPOz6vBWxEn'),
-(20, 'hhqcinema@gmail.com', '$2y$10$LSqd9dc9bw1GlkeD5FZvS.ZPNw4dSVzpLMeSoUgGsq3mUbXPAzjwe', '1999-12-14', 1, '0344982572', 'HHQCinema', '152222222', '2020-12-16', '2020-12-16', 'hVlHcxyYfysSVYNCOGD52YJ46U3okwzLEO9k0vfZ0ApEnmuJREQJ6bTga2TM');
+(20, 'hhqcinema@gmail.com', '$2y$10$LSqd9dc9bw1GlkeD5FZvS.ZPNw4dSVzpLMeSoUgGsq3mUbXPAzjwe', '1999-12-14', 1, '0344982572', 'HHQCinema', '152222222', '2020-12-16', '2020-12-16', 'Ly36zwlMzXw5AoIz3Hy4dRGNflETLt714n5SILlvXZesRnBzstSQWCWMgJkS');
 
 -- --------------------------------------------------------
 
