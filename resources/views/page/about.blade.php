@@ -117,9 +117,6 @@
                                         </a>
                                     </li>
                                 </ul>
-                                <div class="text">
-                                    <p>Database Designer</p>
-                                </div>
                             </div>
                         </div>
                     </div>
