@@ -279,7 +279,7 @@
             <div class="col-md-auto item">
               <div class="box-image">
                 <div class="image">
-                  <img src="{{$pr->hinhanh}} " alt="" class="img-fluid" height="50" width="200">
+                  <img src="{{$pr->hinhanh}} " alt="" class="img-fluid" style="width: 250px;height: 350px">
                   <div class="overlay d-flex align-items-center justify-content-center">
                     <div class="content">
                       <div class="name">
