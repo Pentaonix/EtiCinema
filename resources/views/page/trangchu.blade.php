@@ -250,7 +250,7 @@
 
               <div class="box-image">
                 <div class="image">
-                  <img src="{{$new->hinhanh}} " alt="" class="img-fluid" height="50" width="200">
+                  <img src="{{$new->hinhanh}} " alt="" class="img-fluid" style="width: 100px;height: 200px">
                   <div class="overlay d-flex align-items-center justify-content-center">
                     <div class="content">
                       <div class="name">
